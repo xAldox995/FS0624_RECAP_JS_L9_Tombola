@@ -1,0 +1,23 @@
+*{
+    margin: 0 ;
+    padding: 0 ;
+    text-align: center;
+}
+
+button {
+    margin:2.5% 0;
+    padding: 0 5%;
+}
+
+.casella{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.colora{
+    background-color: red;
+}
